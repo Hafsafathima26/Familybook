@@ -1,0 +1,16 @@
+body{text-align:center;}
+#firstp{ word-spacing: 10px;
+font-variant: small-caps;
+text-align: center;
+font-size: 80px;
+color:#64FFDA
+}
+h1{
+color:#1A237E;
+font-variant: small-caps;
+}
+#album { border-style:solid;
+border-color:#FAFAFA;
+border-radius: 0px;
+padding: 0px;
+height: 400px; }
